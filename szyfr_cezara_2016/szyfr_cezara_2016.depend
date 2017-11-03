@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509725057 source:c:\users\zielonek\documents\szkola\szyfr_cezara_2016\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
